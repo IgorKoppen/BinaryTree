@@ -7,6 +7,7 @@ public class BinaryTree {
         TREE right = null;
     }
 
+    public static int contador = 0;
     private TREE root = null;
 
     public void preOrdem() {
